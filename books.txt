@@ -1,0 +1,13 @@
+PrintedBook,Game of thrones,George RR Maarten,31
+Ebook,Java Programming,John Doe,8
+PrintedBook,Harry Potter,J.K. Rowling,15
+Ebook,Effective Java,Joshua Bloch,4
+PrintedBook,The Hobbit,J.R.R. Tolkien,20
+PrintedBook,The Catcher in the Rye,J.D. Salinger,12
+Ebook,Data Structures and Algorithms,Robert Lafore,8
+PrintedBook,The Lord of the Rings,J.R.R. Tolkien,18
+Ebook,Introduction to Algorithms,Thomas H. Cormen,6
+PrintedBook,To Kill a Mockingbird,Harper Lee,14
+Ebook,Design Patterns,Erich Gamma,7
+PrintedBook,The Great Gatsby,F. Scott Fitzgerald,11
+Ebook,Clean Code,Robert C. Martin,9
