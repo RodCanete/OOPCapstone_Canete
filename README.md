@@ -65,4 +65,4 @@ This allows flexible and dynamic behavior when working with different book types
 ---
 
 ## 🛠️ Class Diagram
-![Library UML Diagram](OOP.drawio (1).png)
+![Library UML Diagram](OOP.drawio%20(1).png)
