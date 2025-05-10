@@ -64,11 +64,5 @@ This allows flexible and dynamic behavior when working with different book types
 
 ---
 
-## 🛠️ Requirements
-
-- Java 8 or higher
-- Java Swing (built-in)
-
----
-
-## 📄 
+## 🛠️ Class Diagram
+![Library UML Diagram](OOP.drawio (1).png)
